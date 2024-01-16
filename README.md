@@ -1,1 +1,1 @@
-# -Building-a-House-in-Rainfall
+A house with a raindrop using the base primitives: points, lines, or triangles. I used only GL_POINTS, GL_LINES, or GL_TRIANGLES for designing this house. Some keyboard functionalities are the 'left arrow' key will gradually bend the rain to the left and the 'right arrow' key will gradually bend the rain to the right.
